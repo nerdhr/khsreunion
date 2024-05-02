@@ -1,0 +1,195 @@
+
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+        background-color: powderblue;
+        font-size: 20pt;
+
+      }
+      .apa {
+        background-color: #072a41; 
+        width: 100%;
+        position: fixed;
+        z-index: 999;
+        top: 0;
+        left: 0;
+        right: 0;
+        padding: 10px; /* This adds some space around the text */
+        font-size: 80%;
+        border-bottom-right-radius: 100px;
+      }
+
+      footer {
+        background-color: #3498db;   
+        color: white; /* This will make the text color white */
+        padding: px;
+      }
+  
+      .container {
+        width: 70%;
+        margin: auto;
+        position: relative;
+        top: 250px;
+        /*bottom: 500px;*/
+        font-size: 80%;
+        color: rgb(13, 14, 14);
+      }
+
+    .headlinks {
+      text-align: center;
+    }
+      header {
+        color: rgb(190, 236, 24); /* This will make the text color white */
+        text-align: left; /* This centers the text */
+        font-size: 1em; /* This makes the text larger */
+        font-weight: bold; /* This makes the text bold */
+      }    
+      header,
+      nav,
+      main {
+        margin: 1em 0;
+      }
+      nav ul {
+        list-style-type: none;
+        padding: 20px;
+      }
+      nav ul li {
+        display: inline;
+        margin-right: 1em;
+      }
+      @media (max-width: 600px) {
+        .container {
+          width: 100%;
+        }
+        nav ul li {
+          display: inline-block;
+        }
+      }
+
+    .nav-button {
+      background-color: #4CAF50; /* Green background */
+      border: none; /* Remove border */
+      color: white; /* White text */
+      padding: 15px 32px; /* Some padding */
+      text-align: center; /* Centered text */
+      text-decoration: none; /* Remove underline */
+      display: inline-block; /* Display inline */
+      font-size: 16px; /* Change font-size */
+      margin: 4px 2px; /* Some margin */
+      cursor: pointer; /* Mouse pointer on hover */
+    }
+    
+    /* Add a background color on hover */
+    .nav-button:hover {
+      background-color: #45a049;
+    }
+    h1 {
+      position: relative;
+      left: 20px;
+      top: 20px;
+      bottom: 20px;
+    }
+
+    h2 {
+      font-weight: 900;
+    }
+    h3 {
+      font-weight: 400;
+    }
+    p {
+      font-weight: 20;
+    }
+    h3 {
+    }
+    img {
+      width: 60%;
+      height: auto;
+      
+    }
+    .dtls {
+      display: inline;
+    }
+    
+    @media (min-width : 200px) and (max-width : 1200px) {
+    .apa {
+      background-color: #072a41; /* Change this to your preferred color */
+      width: 100%;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      padding: 0px; /* This adds some space around the text */
+      font-size: 80%;
+    }
+    nav ul li {
+      display: inline-block;
+      font-size: 30%;
+      display: list-item;
+      text-align: left;
+
+    }
+    .container {
+      width: 90%;
+      margin: auto;
+      position: relative;
+      top: 280px;
+      bottom: 500px;
+      font-size: 60%;
+    }
+    .nav-button {
+      background-color: #4CAF50; /* Green background */
+      border: none; /* Remove border */
+      color: white; /* White text */
+      padding: 5px 32px; /* Some padding */
+      text-align: center; /* Centered text */
+      text-decoration: none; /* Remove underline */
+      display: inline-block; /* Display inline */
+      font-size: 16px; /* Change font-size */
+      margin: 4px 2px; /* Some margin */
+      cursor: pointer; /* Mouse pointer on hover */
+    }
+    .flinks {
+      background-color: ;
+      border: none; /* Remove border */
+      color: white; /* White text */
+      text-align: right; /* Centered text */
+      text-decoration: none; /* Remove underline */
+      display: inline-block; /* Display inline */
+      font-size: 16px; /* Change font-size */
+      margin: 4px 2px; /* Some margin */
+      cursor: pointer; /* Mouse pointer on hover */
+    }
+    }
+    .huzy {
+      position: relative;
+      float: left;
+      right: 20px;
+      width: 20%;
+      height: auto;
+      border-radius: 50%;
+    }
+    .qote {
+      font-size: 80%;
+      font-family: Jokerman, 'Times New Roman', Times, serif;
+      color: rgb(88, 21, 52);
+    }
+    .wysc {
+      position: ;
+      top: 30px;
+      h2 {
+        text-align: left;
+      }
+    }
+    .flinks {
+      background-color: ;
+      border: none; /* Remove border */
+      color: white; /* White text */
+      text-align: center; /* Centered text */
+      text-decoration: none; /* Remove underline */
+      display: inline-block; /* Display inline */
+      font-size: 16px; /* Change font-size */
+      margin: 4px 2px; /* Some margin */
+      cursor: pointer; /* Mouse pointer on hover */
+    }
+        
+      
+    
