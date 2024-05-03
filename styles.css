@@ -6,7 +6,8 @@
 
       }
       .apa {
-        background-color: #072a41; 
+        background-color: #072a41;
+        font-size: 80%
         width: 100%;
         position: fixed;
         z-index: 999;
