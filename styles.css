@@ -114,6 +114,7 @@
     .apa {
       background-color: #072a41; /* Change this to your preferred color */
       width: 100%;
+      font-size: 80%
       position: fixed;
       top: 0;
       left: 0;
