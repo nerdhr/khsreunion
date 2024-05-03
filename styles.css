@@ -13,7 +13,7 @@
         top: 0;
         left: 0;
         right: 0;
-        padding: 10px; /* This adds some space around the text */
+        padding: 7px; /* This adds some space around the text */
         font-size: 80%;
         border-bottom-right-radius: 100px;
       }
